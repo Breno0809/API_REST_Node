@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste de REST API de um tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "youtube"
+  ],
+  "author": "Breno Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
